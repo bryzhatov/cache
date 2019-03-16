@@ -1,0 +1,2 @@
+**HashCache**
+Type: LRU
